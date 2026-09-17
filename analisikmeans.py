@@ -22,7 +22,7 @@ from sklearn.decomposition import PCA                  # reduccion de dimensiona
 from sklearn.metrics import silhouette_score, adjusted_rand_score  # metricas de evaluacion
 
 RNG = 42                    # semilla fija para que todo el analisis sea reproducible
-OUT = Path("salida_real")   
+OUT = Path("resultados")   
 OUT.mkdir(exist_ok=True)
 sns.set_style("whitegrid")  # estilo visual de todas las gráficas
 resultados = {}            
