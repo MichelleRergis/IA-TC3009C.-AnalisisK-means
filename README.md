@@ -70,7 +70,7 @@ El objetivo es responder una pregunta muy práctica: *¿qué tan bien generaliza
  ┣ 📜 analisis_kmeans.py                          # Script principal (ejecutable desde consola)
  ┣ 📄 Mall_Customers.csv                          # Dataset real (Kaggle)
  ┣ 📄 Reporte_Kmeans_Analisis.docx                # Reporte académico completo
- ┣ 📁 salida_real/                                # Carpeta generada automáticamente al ejecutar
+ ┣ 📁 resultados/                                # Carpeta generada automáticamente al ejecutar
  ┃ ┣ 🖼️ 01_metodo_codo.png
  ┃ ┣ 🖼️ 02_silueta_train_val_test.png
  ┃ ┣ 🖼️ 03_estabilidad_varianza_baseline.png
